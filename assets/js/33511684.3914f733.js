@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdevtionary=self.webpackChunkdevtionary||[]).push([[758],{9957:function(a){a.exports=JSON.parse('{"allTagsPath":"/devtionary/blog/tags","slug":"/devtionary/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/devtionary/blog/tags/docusaurus"}')}}]);

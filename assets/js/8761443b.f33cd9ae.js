@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdevtionary=self.webpackChunkdevtionary||[]).push([[667],{5966:function(a){a.exports=JSON.parse('{"allTagsPath":"/devtionary/blog/tags","slug":"/devtionary/blog/tags/hola","name":"hola","count":1,"permalink":"/devtionary/blog/tags/hola"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdevtionary=self.webpackChunkdevtionary||[]).push([[354],{6924:function(a){a.exports=JSON.parse('{"allTagsPath":"/devtionary/blog/tags","slug":"/devtionary/blog/tags/facebook","name":"facebook","count":1,"permalink":"/devtionary/blog/tags/facebook"}')}}]);
